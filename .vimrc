@@ -34,7 +34,7 @@ syntax on
 " 配色----------------------
 set t_Co=256
 " set termguicolors " 真彩色
-set background=dark
+" set background=dark
 " set background=light
 " colorscheme gruvbox
 " colorscheme vividchalk
