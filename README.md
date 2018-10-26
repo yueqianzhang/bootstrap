@@ -1,5 +1,6 @@
 # bootstrap
 ---
+> 我的 Mac 下的开发环境, for iOS、Android、Ruby and more
 # Mac App
   - iTerm2
   - Alfred
