@@ -51,3 +51,8 @@
  - Android Studio
  - VSCode
  - RubyMine
+ ---
+ DOTO:
+ - 自动化安装脚本
+ - 所有内容放到一处软连接统一管理
+
