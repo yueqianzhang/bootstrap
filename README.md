@@ -1,6 +1,52 @@
 # bootstrap
 ---
 # Mac App
+  - iTerm2
+  - Alfred
+  - Chrome
+  - Xcode
+  - Android Studio
+  - Araxis Merge
+  - VSCode
+  - ShadowsocksX-NG
+  - Charles
+  - Sketch
+  - Github Desktop
+  - Navicat Permiun
+  - Photo Shop CC (Adobe Zii)
+  - 微信开发者工具
+  - Docker
+  - Source Tree
+  - Realm Studio
+  - Virtual Box
+  - Go2Shell
+  - Hopper Disassembler
+  - LICEcap
+  - Xnip
+  - XmindZen
+  - KeyCastr
+  - Keka
+  - 
 # Chrome 扩展
+  - Vimium
+  - AdBlock
+  - Google Translate
+  - Octotree
+  - JSON Fotmatter
+  - View Image Info
+  - SwitchyOmega
+  - WonderfulList
 # 终端相关
 # GFW 相关
+  - Ruby
+  - HomeBrew
+  - host
+  - Android Studio
+  - Shell
+# 配色相关
+ - iTerm2
+ - Vim
+ - Xcode
+ - Android Studio
+ - VSCode
+ - RubyMine
