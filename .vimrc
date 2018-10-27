@@ -13,9 +13,9 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'tpope/vim-surround'
 " Plugin 'airblade/vim-gitgutter'
 Plugin 'mattn/emmet-vim'
-" Plugin 'easymotion/vim-easymotion'
+Plugin 'easymotion/vim-easymotion'
 Plugin 'tpope/vim-commentary'
-" Plugin 'tpope/vim-repeat'
+Plugin 'tpope/vim-repeat'
 " Ruby on Rails
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'tpope/vim-rails'
@@ -26,6 +26,7 @@ Plugin 'tpope/vim-endwise'
 " Plugin 'altercation/vim-colors-solarized'
 " Plugin 'dracula/vim'
 Plugin 'srcery-colors/srcery-vim'
+" Plugin 'yueqianzhang/srcery-vim'
 call vundle#end()
 
 filetype plugin indent on
